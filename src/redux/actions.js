@@ -1,4 +1,4 @@
-import { CREATE_POST, FETCH_POSTS, HIDE_LOADER, HIDE_ALERT, SHOW_LOADER, SHOW_ALERT, REQUEST_POSTS } from './types'
+import { CREATE_POST, HIDE_LOADER, HIDE_ALERT, SHOW_LOADER, SHOW_ALERT, REQUEST_POSTS } from './types'
 
 export function createPost(post) {
   return {
