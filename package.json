@@ -1,5 +1,5 @@
 {
-  "name": "react-redux-course",
+  "name": "react-redux-saga",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
