@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/Loader/index.css"],"names":[],"mappings":"AAAA,eACI,UAAW,CACX,YAAa,CACb,sBACJ","file":"main.2cf2620f.chunk.css","sourcesContent":[".loaderWrapper {\n    width: 100%;\n    display: flex;\n    justify-content: center;\n}"]}
