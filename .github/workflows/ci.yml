@@ -5,10 +5,12 @@ on:
     branches:
       - main
       - master
+      - gh-pages
   pull_request:
     branches:
       - main
       - master
+      - gh-pages
 
 jobs:
   ci:
